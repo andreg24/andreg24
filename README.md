@@ -3,8 +3,7 @@
 ## Data Science and Artificial Intelligence student
 
 
-Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,c++)](https://skillicons.dev)
 
 
 <!--
