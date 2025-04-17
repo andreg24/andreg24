@@ -5,7 +5,7 @@ I'm a Data Science and Artificial Intelligence master student with bachelor degr
 
 Skills
 
-[![](https://skillicons.dev/icons?i=python,pytorch,r,cpp)](https://skillicons.dev)
+[![my_skills](https://skillicons.dev/icons?i=python,pytorch,r,cpp)](https://skillicons.dev)
 
 
 <!--
