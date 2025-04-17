@@ -4,7 +4,7 @@
 
 Skills
 
-[(https://skillicons.dev/icons?i=python,pytorch,r,numpy,scikit,cpp)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,pytorch,r,numpy,scikit,cpp)](https://skillicons.dev)
 
 
 <!--
