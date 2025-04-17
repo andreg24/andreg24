@@ -1,6 +1,7 @@
 ## Hi I'm Andrea
 
 ## Data Science and Artificial Intelligence student
+I'm a Data Science and Artificial Intelligence master student with bachelor degree in mathematics working on Deep Learning, Computer Vision and NLP.
 
 Skills
 
